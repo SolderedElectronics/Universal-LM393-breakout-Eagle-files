@@ -1,12 +1,11 @@
 # Universal LM393 breakout Eagle Files
 ## Image
-![Universal LM393 breakout image]
-(https://e-radionica.com/media/catalog/product/d/s/dsc_3180.jpg)
-[LDR LM393 breakout(100027)] (https://e-radionica.com/en/light-sensor-with-lm393-e-radionica-made.html)
-[Vibration sensor LM393 breakout(100031)] (https://e-radionica.com/en/vibration-sensor-with-lm393-e-radionica-made.html)
-[Raindrop LM393 breakout(100030)] (https://e-radionica.com/en/humidity-sensor-with-lm393-e-radionica-made.html)
-[Fire sensor LM393 breakout(100028)] (https://e-radionica.com/en/fire-sensor-phototransistor-s-lm393-e-radionica-made.html)
-[Hall effect LM393 breakout(100029)] (https://e-radionica.com/en/hall-effect-sensor-s-lm393-e-radionica-made.html)
+![Universal LM393 breakout image](https://e-radionica.com/media/catalog/product/d/s/dsc_3180.jpg)
+[LDR LM393 breakout(100027)](https://e-radionica.com/en/light-sensor-with-lm393-e-radionica-made.html)
+[Vibration sensor LM393 breakout(100031)](https://e-radionica.com/en/vibration-sensor-with-lm393-e-radionica-made.html)
+[Raindrop LM393 breakout(100030)](https://e-radionica.com/en/humidity-sensor-with-lm393-e-radionica-made.html)
+[Fire sensor LM393 breakout(100028)](https://e-radionica.com/en/fire-sensor-phototransistor-s-lm393-e-radionica-made.html)
+[Hall effect LM393 breakout(100029)](https://e-radionica.com/en/hall-effect-sensor-s-lm393-e-radionica-made.html)
 
 ## Description and details
 Universal LM393 is breakout for different sensors which are connected to the LM393 voltage comapator. According to the setting of the potenciometer and the value of connected sensor, you will get digital HIGH(Vcc) or LOW(0V) at digital output. Analog output is also available. Check schematics for details.
